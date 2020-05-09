@@ -1,0 +1,22 @@
+{
+  "name": "explonat",
+  "version": "1.0.0",
+  "description": "Simple landing page for tours in nature",
+  "main": "index.js",
+  "scripts": {
+   "compile:sass": "node-sass sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexpatru/explonat.git"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexpatru/explonat/issues"
+  },
+  "homepage": "https://github.com/alexpatru/explonat#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
